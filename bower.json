@@ -5,6 +5,7 @@
   ],
   "description": "rangeslider js port for sass",
   "main": "rangeslider.sass",
+  "version": "1.0.0",
   "moduleType": [],
   "license": "MIT",
   "homepage": "",
